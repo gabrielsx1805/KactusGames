@@ -41,7 +41,6 @@
     {"id":{"name":"spr_curupira","path":"sprites/spr_curupira/spr_curupira.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_saci","path":"sprites/spr_saci/spr_saci.yy",},},
-    {"id":{"name":"spr_saci2","path":"sprites/spr_saci2/spr_saci2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
